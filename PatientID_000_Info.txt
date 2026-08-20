@@ -1,0 +1,8 @@
+Patient Information
+=============================
+
+Patient ID: 000
+Date: 2026-06-30
+Trial Number: 1
+Additional Information:
+At home resting state eeg performed on X.X. Cycled conditions eyes open, eyes closed whilst in a seated position with limbs supported.
