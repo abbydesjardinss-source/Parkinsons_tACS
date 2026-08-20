@@ -39,6 +39,9 @@ Opts. stimulationmethods_noconnect.m
 # Example Figure / Tables
 - Example stimulation conditions derived from peak beta-frequency collected from rough resting-state EEG
 - Accelerometry data depicts subtle motion of the right hand (not tremor accurate)
-accdata_000_trial_1.csv is of the format returned by the geneActiv wristwatch
+accdata_000_trial_1.csv is of the format returned by the geneActiv wristwatch program
+- (5) example figs of power spectra of stimulation epochs, from which peak freq and relative power is to be determined (for quick analysis)
+- tremormotion depicts PC1; dominant acceleration across total stimulation duration
+  
 
 
