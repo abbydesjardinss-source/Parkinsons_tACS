@@ -35,5 +35,10 @@ In order of use,
 
 Opts. stimulationmethods_noconnect.m
 - generates sample experimental stimulation values without connecting to neuroelectrics technology. 
-   
-  
+
+# Example Figure / Tables
+- Example stimulation conditions derived from peak beta-frequency collected from rough resting-state EEG
+- Accelerometry data depicts subtle motion of the right hand (not tremor accurate)
+accdata_000_trial_1.csv is of the format returned by the geneActiv wristwatch
+
+
